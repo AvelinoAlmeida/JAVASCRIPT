@@ -9,4 +9,6 @@ Vamos apreder a comparar valores e perceber o seu resultado.
 
 // IMPORTANTE:
 
+
 console.log(10 > 20);
+
